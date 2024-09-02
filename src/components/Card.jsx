@@ -3,7 +3,7 @@ import React from 'react';
 const Card = () => {
   return (
     <>
-      <div className="card-square rounded-lg bg-gray-50 h-[400px] w-[400px] hover:bg-[#d9fb69] hover:border hover:border-black hover:shadow-custom transition-all flex flex-col justify-center items-center shadow-md">
+      <div className="card-square rounded-lg bg-gray-50 border border-white-300 h-[300px] w-[300px] hover:bg-[#d9fb69] hover:border hover:border-black hover:shadow-custom transition-all flex flex-col justify-center items-center shadow-md">
         
         {/* Icons at the top */}
         <div className="flex justify-center space-x-[100px]">

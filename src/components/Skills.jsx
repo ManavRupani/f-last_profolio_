@@ -13,14 +13,11 @@ function Skills() {
             <div className='font-extrabold  text-3xl text-left'>The Process that makes a development<br/> team successful.</div>
             <div><button class="button-75" role="button">Download CV</button></div>
         </div>
-        <div className="mt-2 flex items-center justify-evenly mx-[280px]">
-        
-          
+        <div className="mt-2 flex items-center justify-evenly mx-36">
           <div><Card/></div>
           <div><Card/></div>
           <div><Card/></div>
           <div><Card/></div>
-        
         </div>
     </div>
     </>
